@@ -1,5 +1,4 @@
-//nysearch.cpp
-//homework 7
+//localsearch.cpp
 //bruno spinelli
 
 #include "WebPage.h"
