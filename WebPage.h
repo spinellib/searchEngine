@@ -1,5 +1,4 @@
 //WebPage.h
-//Homework 7
 //Bruno Spinelli
 
 #ifndef WEBPAGE_H
