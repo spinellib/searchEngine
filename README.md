@@ -16,7 +16,7 @@ Here, "localsearch.exe" is the name of the program.
 "html_files/index.html" is the mock seed URL for the project.
 "output.txt" is the desired file to output the search data.
 
-This program supports up to 3 different search queries at a time.
+This program supports up to 3 different search queries at a time, where each query command ("query1", "query2", and "query3") will search through the local directory individually and be outputted to the given file.
 
 TO DO:
 Finish outputting the data to the file properly.
