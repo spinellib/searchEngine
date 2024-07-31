@@ -1,5 +1,4 @@
 //WebPage.cpp
-//Homework 7
 //Bruno Spinelli
 
 #include "WebPage.h"
